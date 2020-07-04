@@ -1,0 +1,16 @@
+.dave1{
+    width:100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.dave{
+    width: 100%;
+    height: 250px;
+}
+
+.lista{
+    list-style: none;
+}

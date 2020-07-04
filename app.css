@@ -1,0 +1,29 @@
+.color {
+    background: #2980b9;
+    background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);
+    background: linear-gradient(to right, #2c3e50, #2980b9);
+}
+.texto{
+    color: white;
+}
+.texto:hover{
+    color: rgba(255, 255, 255, 0.541);
+}
+.tmn{
+    width: 40px;
+    color: black;
+    cursor: pointer;
+}
+.tmnoficial{
+    width: 200px;
+    height: 150px;
+    
+}
+.cartilla{
+    background-image: url(https://mdbootstrap.com/img/Photos/Horizontal/Work/4-col/img%20%2814%29.jpg);
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
